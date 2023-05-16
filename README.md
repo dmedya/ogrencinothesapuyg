@@ -1,5 +1,6 @@
 # ogrencinothesapuyg
 Öğrenci Not Hesaplama Uygulaması
+
 Öğrenci not hesaplama uygulaması, öğrencilerin aldıkları derslerin notlarını girmelerine ve not ortalamalarını hesaplamalarına yardımcı olan bir yazılım aracıdır. Bu uygulama genellikle öğrencilerin akademik performanslarını izlemelerine ve derslerindeki ilerlemelerini değerlendirmelerine olanak sağlar.
 
 Öğrenci not hesaplama uygulamasının sağladığı faydalar şunlardır:
