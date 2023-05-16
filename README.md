@@ -43,9 +43,9 @@ Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını gö
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/projeolu%C5%9Ftur.png" width="300" height="300"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/formsec.png " width="600" height="500"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/formsec.png " width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="800" height="700"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="1000" height="900"></div>
 
 Araç kutusunda kısmında "GroupBoxu" bulup formumumuzda konumlandırıyoruz .Ardından sol altta özellikler kısmında text kısmında Form1 ismini de  Student Grade Calculator olarak değiştirip araç kutusunda  "label" ekleyip, konumlandırıp text kısmını düzenleyip Student Name ,Matematik...vb kısımları ekliyoruz.
 
