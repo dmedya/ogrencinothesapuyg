@@ -17,7 +17,7 @@ Motivasyon ve Hedef Belirleme: Uygulama, öğrencilerin notlarını görsel olar
 <h1>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h1>
 
 
-<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="1000" height="900"></div>
+<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="auto"></div>
 
 Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı ortalmasını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
 
