@@ -17,23 +17,23 @@ Motivasyon ve Hedef Belirleme: Uygulama, öğrencilerin notlarını görsel olar
 <h1>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h1>
 
 
-<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="auto"></div>
+<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="800" height = "700"></div>
 
 Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı ortalmasını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
 
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notsuper.png" width="300" height="300"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notsuper.png" width="800" height="700"></div>
 
 Yukarıda gördüğüz görselde notlarımı girdikten sonra Merhaba (girdiğimiz ad) Notun (ortalamaya göre notun nasıl olup olmadığı) çıktısı gözükecektir.Ben adımı ve bilgilerimi girdikten sonra Merhaba Medya Doran Super çıktısını aldım . 
 
 
 Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını göstermek amacıyla eklenmiştir.Not İyi,Not İdare Eder ve Maalesef Kaldın çıktıları gösterilmiştir.
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notiyi.png" width="300" height="300"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notiyi.png" width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notidareder.png" width="300" height="300"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notidareder.png" width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notkaldın.png" width="300" height="300"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notkaldın.png" width="800" height="700"></div>
 
 
 
@@ -41,17 +41,17 @@ Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını gö
 
 Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Form oluşturma aşamaları aşağıdaki gibidir.
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/projeolu%C5%9Ftur.png" width="300" height="300"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/projeolu%C5%9Ftur.png" width="800" height="700"></div>
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/formsec.png " width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="1000" height="900"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="800" height="700"></div>
 
 Araç kutusunda kısmında "GroupBoxu" bulup formumumuzda konumlandırıyoruz .Ardından sol altta özellikler kısmında text kısmında Form1 ismini de  Student Grade Calculator olarak değiştirip araç kutusunda  "label" ekleyip, konumlandırıp text kısmını düzenleyip Student Name ,Matematik...vb kısımları ekliyoruz.
 
 "GroupBox" kısımlarını ekleyip "label"larımıza metin kutusu oluşturmuş oluyoruz."GroupBox"larımıza isim veriyoruz örneğin student name için oluşturduğumuz "GroupBox"'a txtStudentname ismini atadık mesela . Diğer "GroupBoxlarımızı" da aynı şekil halletmemiz gerekiyor hallettikten sonra kod kısmına geçiyoruz
 
-<div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="300" height="300"></div>
+<div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="800" height="700"></div>
 
 <h1>Kod Kısmı</h1>
 
