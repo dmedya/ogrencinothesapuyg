@@ -12,4 +12,7 @@ Doğruluk ve Hassasiyet: Uygulama, not hesaplama formüllerini otomatik olarak u
 İlerlemeyi İzleme: Öğrenciler, ders notlarını ve ortalamalarını düzenli olarak takip ederek akademik ilerlemelerini izleyebilirler. Bu sayede zayıf alanlarını belirleyebilir ve gelişimlerini planlayabilirler.
 
 Motivasyon ve Hedef Belirleme: Uygulama, öğrencilerin notlarını görsel olarak görüntülemelerine ve hedeflerini belirlemelerine olanak tanır. Başarılarına odaklanmalarını ve daha iyi sonuçlar elde etmeyi teşvik eder.
-Öğrenci Not Hesaplama Uygulaması Naıl Çalışır?
+
+
+Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?
+
