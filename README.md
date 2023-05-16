@@ -1,5 +1,5 @@
 # ogrencinothesapuyg
-Öğrenci Not Hesaplama Uygulaması
+<h1>Öğrenci Not Hesaplama Uygulaması</h1>
 
 Öğrenci not hesaplama uygulaması, öğrencilerin aldıkları derslerin notlarını girmelerine ve not ortalamalarını hesaplamalarına yardımcı olan bir yazılım aracıdır. Bu uygulama genellikle öğrencilerin akademik performanslarını izlemelerine ve derslerindeki ilerlemelerini değerlendirmelerine olanak sağlar.
 
@@ -14,7 +14,7 @@ Doğruluk ve Hassasiyet: Uygulama, not hesaplama formüllerini otomatik olarak u
 Motivasyon ve Hedef Belirleme: Uygulama, öğrencilerin notlarını görsel olarak görüntülemelerine ve hedeflerini belirlemelerine olanak tanır. Başarılarına odaklanmalarını ve daha iyi sonuçlar elde etmeyi teşvik eder.
 
 
-Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?
+<h1>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h1>
 
 
 <div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="300" height="300"></div>
@@ -37,7 +37,7 @@ Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını gö
 
 
 
-Bu Projeyi Nasıl Yaptım?
+<h1>Bu Projeyi Nasıl Yaptım?</h1>
 
 Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Fprm oluşturma aşamaları aşağıdaki gibidir.
 
@@ -53,7 +53,7 @@ GroupBox kısımlarını ekleyip labellarımıza metin kutusu oluşturmuş oluyo
 
 <div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="300" height="300"></div>
 
-Kod Kısmı
+<h1>Kod Kısmı</h1>
 
 Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
 
