@@ -15,4 +15,13 @@ Motivasyon ve Hedef Belirleme: Uygulama, öğrencilerin notlarını görsel olar
 
 
 Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?
+<img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="auto">
+
+
+<img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notsuper.png" width = "auto">
+
+<img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notiyi.png" width = "auto">
+<img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notidareder.png" width = "auto">
+<img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notkaldın.png" width = "auto">
+
 
