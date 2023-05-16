@@ -47,6 +47,10 @@ Bu Projeyi Nasıl Yaptım?
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="300" height="300"></div>
 
+Araç kutusunda kısmında GroupBoxu bulup formumumuzda konumlandırıyoruz .Ardından sol altta özellikler kısmında text kısmında Form1 kısmını Student Grade Calculator olarak değiştirip araç kutusunda 'label' tıklayıp  'label' ekleyip konumlandırıp text kısmını düzenleyip Student Name ,Matematik...vb kısımları ekliyoruz.
+
+<div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="300" height="300"></div>
+
 
 
 
