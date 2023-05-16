@@ -57,8 +57,7 @@ Kod Kısmı
 
 Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
 
-private void Button_Click(object sender, EventArgs e)
-        {
+
 
             double maths, english, science, total, avg;
             string grade, des;
@@ -71,7 +70,7 @@ private void Button_Click(object sender, EventArgs e)
             total = maths + english + science;
             txtTotal.Text = total.ToString();
             avg = total / 3;
-            //  yukarıdaki üç satırtoplamı hesaplar ve sonucu ilgili metin kutularına yazar.
+            //  yukarıdaki üç satır toplamı hesaplar ve sonucu ilgili metin kutularına yazar.
             txtAvg.Text = avg.ToString("0.00"); 
             // virgülden sonrası 2 basamak olucak şekilde yazar çok kalabalık gözükmesini önlemek amacıyla sayının ondalığını 2 basamaklı verir
 
