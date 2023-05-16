@@ -39,7 +39,7 @@ Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını gö
 
 <h1>Bu Projeyi Nasıl Yaptım?</h1>
 
-Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Fprm oluşturma aşamaları aşağıdaki gibidir.
+Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Form oluşturma aşamaları aşağıdaki gibidir.
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/projeolu%C5%9Ftur.png" width="300" height="300"></div>
 
@@ -47,7 +47,7 @@ Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını gö
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="300" height="300"></div>
 
-Araç kutusunda kısmında GroupBoxu bulup formumumuzda konumlandırıyoruz .Ardından sol altta özellikler kısmında text kısmında Form1 kısmını Student Grade Calculator olarak değiştirip araç kutusunda <p style=”color:black”></p>label tıklayıp  'label' ekleyip konumlandırıp text kısmını düzenleyip Student Name ,Matematik...vb kısımları ekliyoruz.
+Araç kutusunda kısmında GroupBoxu bulup formumumuzda konumlandırıyoruz .Ardından sol altta özellikler kısmında text kısmında Form1 kısmını Student Grade Calculator olarak değiştirip araç kutusunda <p style=”color:dark blue”>label</p> tıklayıp  'label' ekleyip konumlandırıp text kısmını düzenleyip Student Name ,Matematik...vb kısımları ekliyoruz.
 
 GroupBox kısımlarını ekleyip labellarımıza metin kutusu oluşturmuş oluyoruz.GroupBoxlarımıza isim veriyoruz örneğin student name için oluşturduğumuz GroupBox'a txtStudentname ismini atadık mesela . Diğer GroupBoxlarımızı da aynı şekil halletmemiz gerekiyor hallettikten sonra kod kısmına geçiyoruz
 
