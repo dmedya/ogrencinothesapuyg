@@ -30,7 +30,25 @@ Yukarıda gördüğüz görselde notlarımı girdikten sonra Merhaba (girdiğimi
 Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını göstermek amacıyla eklenmiştir.Not İyi,Not İdare Eder ve Maalesef Kaldın çıktıları gösterilmiştir.
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notiyi.png" width="300" height="300"></div>
+
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notidareder.png" width="300" height="300"></div>
+
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notkaldın.png" width="300" height="300"></div>
+
+
+
+Bu Projeyi Nasıl Yaptım?
+
+Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Fprm oluşturma aşamaları aşağıdaki gibidir.
+
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/projeolu%C5%9Ftur.png" width="300" height="300"></div>
+
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/formsec.png " width="300" height="300"></div>
+
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="300" height="300"></div>
+
+
+
+
 
 
