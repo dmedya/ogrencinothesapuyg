@@ -51,7 +51,7 @@ namespace artikyap
             }
             description.Text = des.ToString();
             txtGrade.Text = grade.ToString();
-            //zahahahahahah
+            
         }
 
         private void Form1_Load(object sender, EventArgs e)
