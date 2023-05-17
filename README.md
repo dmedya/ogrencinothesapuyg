@@ -5,13 +5,13 @@
 
 Öğrenci not hesaplama uygulamasının sağladığı faydalar şunlardır:
 
-<h4>Kolaylık ve Hız:</h4> Uygulama, öğrencilerin notlarını tek bir yerde toplamasını ve hızlı bir şekilde hesaplamalarını yapmasını sağlar. Manuel olarak notları hesaplama ve takip etme zorunluluğunu ortadan kaldırır.
+<h5>Kolaylık ve Hız:</h5> Uygulama, öğrencilerin notlarını tek bir yerde toplamasını ve hızlı bir şekilde hesaplamalarını yapmasını sağlar. Manuel olarak notları hesaplama ve takip etme zorunluluğunu ortadan kaldırır.
 
 <h5>Doğruluk ve Hassasiyet:</h5> Uygulama, not hesaplama formüllerini otomatik olarak uygulayarak doğru ve hassas sonuçlar sağlar. El ile yapılan hesaplamalardaki hata riskini azaltır.
 
-<h3>İlerlemeyi İzleme:</h3> Öğrenciler, ders notlarını ve ortalamalarını düzenli olarak takip ederek akademik ilerlemelerini izleyebilirler. Bu sayede zayıf alanlarını belirleyebilir ve gelişimlerini planlayabilirler.
+<h5>İlerlemeyi İzleme:</h5> Öğrenciler, ders notlarını ve ortalamalarını düzenli olarak takip ederek akademik ilerlemelerini izleyebilirler. Bu sayede zayıf alanlarını belirleyebilir ve gelişimlerini planlayabilirler.
 
-<h3>Motivasyon ve Hedef Belirleme:</h3> Uygulama, öğrencilerin notlarını görsel olarak görüntülemelerine ve hedeflerini belirlemelerine olanak tanır. Başarılarına odaklanmalarını ve daha iyi sonuçlar elde etmeyi teşvik eder.
+<h5>Motivasyon ve Hedef Belirleme:</h5> Uygulama, öğrencilerin notlarını görsel olarak görüntülemelerine ve hedeflerini belirlemelerine olanak tanır. Başarılarına odaklanmalarını ve daha iyi sonuçlar elde etmeyi teşvik eder.
 
 
 <h1>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h1>
