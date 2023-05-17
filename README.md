@@ -14,7 +14,7 @@
 <h5>Motivasyon ve Hedef Belirleme:</h5> Uygulama, öğrencilerin notlarını görsel olarak görüntülemelerine ve hedeflerini belirlemelerine olanak tanır. Başarılarına odaklanmalarını ve daha iyi sonuçlar elde etmeyi teşvik eder.
 
 
-<h1>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h1>
+<h2>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h2>
 
 
 <div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="800" height = "700"></div>
@@ -37,7 +37,7 @@ Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını gö
 
 
 
-<h1>Bu Projeyi Nasıl Yaptım?</h1>
+<h2>Bu Projeyi Nasıl Yaptım?</h2>
 
 Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Form oluşturma aşamaları aşağıdaki gibidir.
 
@@ -53,7 +53,7 @@ Araç kutusunda kısmında "GroupBoxu" bulup formumumuzda konumlandırıyoruz .A
 
 <div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="800" height="700"></div>
 
-<h1>Kod Kısmı</h1>
+<h3>Kod Kısmı</h3>
 
 Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
 
