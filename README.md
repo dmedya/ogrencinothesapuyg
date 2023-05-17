@@ -53,7 +53,7 @@ Araç kutusunda kısmında "GroupBoxu" bulup formumumuzda konumlandırıyoruz .A
 
 <div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="800" height="700"></div>
 
-<h3>Kod Kısmı</h3>
+<h2>Kod Kısmı</h2>
 
 Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
 
