@@ -65,14 +65,16 @@ Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir
             maths = int.Parse(txtMaths.Text);
             english = int.Parse(txtEnglish.Text);
             science = int.Parse(txtScience.Text);
-           //yukaridaki üç satır matematik, ingilizce ve fen notlarını ve toplamını hesaplamak için değişkenleri tanımlar.
+           //yukaridaki üç satır matematik, ingilizce ve fen notlarını ve toplamını hesaplamak için değişkenleri
+           tanımlar.
 
             total = maths + english + science;
             txtTotal.Text = total.ToString();
             avg = total / 3;
             //  yukarıdaki üç satır toplamı hesaplar ve sonucu ilgili metin kutularına yazar.
             txtAvg.Text = avg.ToString("0.00"); 
-            // virgülden sonrası 2 basamak olucak şekilde yazar çok kalabalık gözükmesini önlemek amacıyla sayının ondalığını 2 basamaklı verir
+            // virgülden sonrası 2 basamak olucak şekilde yazar çok kalabalık gözükmesini önlemek amacıyla
+            sayının ondalığını 2 basamaklı verir
 
             if (avg >= 75) //75 ve üstü A notunu alır
             {
