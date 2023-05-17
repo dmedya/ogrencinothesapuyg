@@ -19,7 +19,7 @@ Motivasyon ve Hedef Belirleme: Uygulama, öğrencilerin notlarını görsel olar
 
 <div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="800" height = "700"></div>
 
-Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı ortalmasını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
+Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı toplamını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
 
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notsuper.png" width="800" height="700"></div>
