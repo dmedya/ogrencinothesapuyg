@@ -9,14 +9,11 @@
 
 <h5>Doğruluk ve Hassasiyet:</h5> Uygulama, not hesaplama formüllerini otomatik olarak uygulayarak doğru ve hassas sonuçlar sağlar. El ile yapılan hesaplamalardaki hata riskini azaltır.
 
-<h5>Merkezi Not Saklama:</h5>
-Uygulama, öğrenci notlarını hesaplamak ve saklamak için merkezi bir yer sağlar. Bu sayede tüm not bilgileri tek bir yerde toplanır ve kolaylıkla erişilebilir hale gelir.
+<h5>Merkezi Not Hesaplama:</h5>
+Uygulama, öğrenci notlarını hesaplamak bir yer sağlar. Bu sayede tüm öğrenci not bilgileri tek bir yerde toplanır ve kolaylıkla erişilebilir hale gelir.
 
-<h5>Sınıflandırma ve İstatistiksel Bilgiler:</h5>
-Öğrencilerin notlarına göre sınıflandırma ve istatistiksel bilgiler elde etmek uygulamanın bir diğer faydasıdır. Ortalama, en yüksek ve en düşük notlar gibi istatistiksel veriler elde edilebilir. Bu sayede öğrencilerin performansı gruplandırılabilir ve genel sınıf başarısı analiz edilebilir.
-
-<h5>Düzenli Kayıt ve Referans İmkanı:</h5>
-Uygulama, öğrenci bilgilerinin düzenli bir şekilde kaydedilmesini sağlar. Bu kayıtlar, gelecekteki referanslar için erişilebilir hale gelir. Öğrenci notları, başarı durumu ve diğer ilgili bilgiler güvenli bir şekilde saklanır.
+<h5>Listeleme</h5>
+Öğrencilerin notlarına göre listelemek uygulamanın bir diğer faydasıdır. Ortalama, en yüksek ve en düşük notlar gibi istatistiksel veriler elde edilebilir. Bu sayede öğrencilerin performansı gruplandırılabilir ve genel sınıf başarısı analiz edilebilir.
 
 <h5>Kolay Kullanıcı İşlemleri:</h5>
 Uygulama, kullanıcıların öğrenci bilgilerini kolayca eklemesini, güncellemesini ve silmesini sağlar. Kullanıcı dostu bir arayüz ile öğrenci notlarının yönetimi basitleştirilir ve kullanıcılar zaman kazanır.
