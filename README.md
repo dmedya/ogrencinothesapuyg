@@ -22,11 +22,11 @@
 Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı toplamını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
 
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran1.png" width="800" height="700"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran1.png" width="auto"></div>
 
 
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran2.png" width="800" height="700"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran2.png" width="auto"></div>
 
 
 
