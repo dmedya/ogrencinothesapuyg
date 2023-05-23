@@ -12,7 +12,7 @@
 <h5>Merkezi Not Hesaplama:</h5>
 Uygulama, öğrenci notlarını hesaplamak bir yer sağlar. Bu sayede tüm öğrenci not bilgileri tek bir yerde toplanır ve kolaylıkla erişilebilir hale gelir.
 
-<h5>Listeleme</h5>
+<h5>Listeleme:</h5>
 Öğrencilerin notlarına göre listelemek uygulamanın bir diğer faydasıdır. Ortalama, en yüksek ve en düşük notlar gibi istatistiksel veriler elde edilebilir. Bu sayede öğrencilerin performansı gruplandırılabilir ve genel sınıf başarısı analiz edilebilir.
 
 <h5>Kolay Kullanıcı İşlemleri:</h5>
