@@ -17,23 +17,23 @@
 <h2>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h2>
 
 
-<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/studentgradecal.png" width="800" height = "700"></div>
+<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/" width="800" height = "700"></div>
 
 Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı toplamını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
 
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notsuper.png" width="800" height="700"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/" width="800" height="700"></div>
 
 Yukarıda gördüğüz görselde notlarımı girdikten sonra Merhaba (girdiğimiz ad) Notun (ortalamaya göre notun nasıl olup olmadığı) çıktısı gözükecektir.Ben adımı ve bilgilerimi girdikten sonra Merhaba Medya Doran Super çıktısını aldım . 
 
 
 Aşağıdaki görsellerde ise not değiştirilip ne çıktı alınacağını göstermek amacıyla eklenmiştir.Not İyi,Not İdare Eder ve Maalesef Kaldın çıktıları gösterilmiştir.
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notiyi.png" width="800" height="700"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/" width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notidareder.png" width="800" height="700"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/" width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/notkaldın.png" width="800" height="700"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/" width="800" height="700"></div>
 
 
 
