@@ -56,25 +56,25 @@ Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add studen
 
 
 
-<h2>Bu Projeyi Nasıl Yaptım?</h2>
+//<h2>Bu Projeyi Nasıl Yaptım?</h2>
 
-Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Form oluşturma aşamaları aşağıdaki gibidir.
+//Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Form oluşturma //aşamaları aşağıdaki gibidir.
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/projeolu%C5%9Ftur.png" width="800" height="700"></div>
+//<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/projeolu%C5%9Ftur.png" width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/formsec.png " width="800" height="700"></div>
+//<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/formsec.png " width="800" height="700"></div>
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="800" height="700"></div>
+//<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/form1.png" width="800" height="700"></div>
 
-Araç kutusunda kısmında "GroupBoxu" bulup formumumuzda konumlandırıyoruz .Ardından sol altta özellikler kısmında text kısmında Form1 ismini de  Student Grade Calculator olarak değiştirip araç kutusunda  "label" ekleyip, konumlandırıp text kısmını düzenleyip Student Name ,Matematik...vb kısımları ekliyoruz.
+//Araç kutusunda kısmında "GroupBoxu" bulup formumumuzda konumlandırıyoruz .Ardından sol altta özellikler kısmında text kısmında Form1 ismini de  Student Grade Calculator olarak değiştirip araç kutusunda  "label" ekleyip, konumlandırıp text kısmını düzenleyip Student Name ,Matematik...vb kısımları ekliyoruz.
 
-"GroupBox" kısımlarını ekleyip "label"larımıza metin kutusu oluşturmuş oluyoruz."GroupBox"larımıza isim veriyoruz örneğin student name için oluşturduğumuz "GroupBox"'a txtStudentname ismini atadık mesela . Diğer "GroupBoxlarımızı" da aynı şekil halletmemiz gerekiyor hallettikten sonra kod kısmına geçiyoruz
+//"GroupBox" kısımlarını ekleyip "label"larımıza metin kutusu oluşturmuş oluyoruz."GroupBox"larımıza isim veriyoruz örneğin student name için oluşturduğumuz //"GroupBox"'a txtStudentname ismini atadık mesela . Diğer "GroupBoxlarımızı" da aynı şekil halletmemiz gerekiyor hallettikten sonra kod kısmına geçiyoruz
 
-<div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="800" height="700"></div>
+//<div align="center"><img src ="https://github.com/dmedya/ogrencinothesapuyg/blob/main/ilkad%C4%B1m.png" width="800" height="700"></div>
 
-<h2>Kod Kısmı</h2>
+//<h2>Kod Kısmı</h2>
 
-Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
+//Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları //alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
 
 
 
