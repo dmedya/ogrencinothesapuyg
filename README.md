@@ -59,53 +59,7 @@ Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir
 
 
 
-            double maths, english, science, total, avg;
-            string grade, des;
-
-            maths = int.Parse(txtMaths.Text);
-            english = int.Parse(txtEnglish.Text);
-            science = int.Parse(txtScience.Text);
-           //yukaridaki üç satır matematik, ingilizce ve fen notlarını ve toplamını hesaplamak için değişkenleri
-           tanımlar.
-
-            total = maths + english + science;
-            txtTotal.Text = total.ToString();
-            avg = total / 3;
-            //  yukarıdaki üç satır toplamı hesaplar ve sonucu ilgili metin kutularına yazar.
-            txtAvg.Text = avg.ToString("0.00"); 
-            // virgülden sonrası 2 basamak olucak şekilde yazar çok kalabalık gözükmesini önlemek amacıyla
-            sayının ondalığını 2 basamaklı verir
-
-            if (avg >= 75) //75 ve üstü A notunu alır
-            {
-                grade = "A";
-                des = $"Merhaba {txtStudentName.Text} Notun Super..";
-            }
-            else if (avg >= 65) //65 ve üstü B 
-            {
-                grade = "B";
-                des = $"Merhaba {txtStudentName.Text} Notun Iyi..";
-            }
-            else if (avg >= 55)
-            {
-                grade = "C";
-                des = $"Merhaba {txtStudentName.Text} Notun Idare Eder..";
-            }
-            else if (avg >= 45)
-            {
-                grade = "D";
-                des = $"Merhaba {txtStudentName.Text} Notun Kotu..";
-            }
-            else
-            {
-                grade = "F";
-                des = $"Merhaba {txtStudentName.Text} Malesef Kaldin..";
-            }
-            description.Text = des.ToString();
-            txtGrade.Text = grade.ToString();
-            //belirlenen harf notu ve açıklama ilgili metin kutularına yazdırılır.
-
-        }
+          
 
 
 
