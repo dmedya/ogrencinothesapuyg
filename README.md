@@ -13,20 +13,45 @@
 
 <h5>Motivasyon ve Hedef Belirleme:</h5> Uygulama, öğrencilerin notlarını görsel olarak görüntülemelerine ve hedeflerini belirlemelerine olanak tanır. Başarılarına odaklanmalarını ve daha iyi sonuçlar elde etmeyi teşvik eder.
 
+<h5>Merkezi Not Saklama:</h5>
+Uygulama, öğrenci notlarını hesaplamak ve saklamak için merkezi bir yer sağlar. Bu sayede tüm not bilgileri tek bir yerde toplanır ve kolaylıkla erişilebilir hale gelir.
+
+<h5>Performans Takibi:</h5>
+Uygulama, öğrencilerin performansını takip etmek ve gelişimlerini değerlendirmek için kullanılabilir. Öğrencilerin notlarını düzenli olarak kaydederek, öğretmenler ve veliler öğrencinin ilerlemesini takip edebilir ve gerektiğinde destek sağlayabilir.
+
+<h5>Sınıflandırma ve İstatistiksel Bilgiler:</h5>
+Öğrencilerin notlarına göre sınıflandırma ve istatistiksel bilgiler elde etmek uygulamanın bir diğer faydasıdır. Ortalama, standart sapma, en yüksek ve en düşük notlar gibi istatistiksel veriler elde edilebilir. Bu sayede öğrencilerin performansı gruplandırılabilir ve genel sınıf başarısı analiz edilebilir.
+
+<h5>Düzenli Kayıt ve Referans İmkanı:</h5>
+Uygulama, öğrenci bilgilerinin düzenli bir şekilde kaydedilmesini sağlar. Bu kayıtlar, gelecekteki referanslar için erişilebilir hale gelir. Öğrenci notları, başarı durumu ve diğer ilgili bilgiler güvenli bir şekilde saklanır.
+
+<h5>Veri Tabanlı Yaklaşım:</h5>
+Uygulama, öğrencilerin notlarını analiz etmek ve başarı durumunu anlamak için veri tabanlı bir yaklaşım sunar. Bu sayede detaylı analizler yapılabilir, trendler ve eğilimler belirlenebilir. Öğrencilerin güçlü ve zayıf yönleri tespit edilebilir ve müfredat veya öğretim stratejileri buna göre düzenlenebilir.
+
+<h5>Kolay Kullanıcı İşlemleri:</h5>
+Uygulama, kullanıcıların öğrenci bilgilerini kolayca eklemesini, güncellemesini ve silmesini sağlar. Kullanıcı dostu bir arayüz ile öğrenci notlarının yönetimi basitleştirilir ve kullanıcılar zaman kazanır.
+
+Bu faydaları sağlayan uygulama, öğrenci notlarının etkili bir şekilde yönetilmesini ve öğrencilerin başarılarını izlemeyi kolaylaştırır. Aynı zamanda öğretmenler ve yöneticiler için veri tabanlı kararlar alma sürecini destekler ve öğrenci performansını artırmaya yardımcı olur.
+
+
 
 <h2>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h2>
 
 
 <div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran.png" width="auto"></div>
 
-Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add student butonuna tıklayıp aşağıda da gördüğümüz üzere öğrencilerin bilgilerini gireceği bir form sayfası çıkıyor karşımıza.Buraya bilgilerimizi girip 'calc' yaptığımızda not hesaplanıyor ve not ana ekranımda listeleniyor.
+Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add student butonuna tıklayıp öğrenci bilgilerimizi giriyoruz.Aşağıda ilgili form görseli bulunmaktadır.
 
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran1.png" width="auto"></div>
 
+ Yukarıda gördüğümüz forma öğrenci bilgilerini girip 'calc' yaptığımızda öğrenci notu hesaplanmış oluyor.
 
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran2.png" width="auto"></div>
+
+ Bu görselden de anlaşıldığı üzere 'Kullanıcı bilgiler başarılı bir şekilde girildi'. Ana ekrana dönüp 'Refresh' yaptığımızda öğrencim listeme eklenmiş oluyor .
+ Öğrenci ortalaması en yüksekten en düşüğe doğru sıralanıyor.Sağ alt tarafta görüldüğü üzere öğrenci mevcudu,sınıf ortalaması ve başarısız öğrencilerin de sayısı veriliyor.Öğrenci silmek istersekte ,silmek istediğimiz satırı işaretleyip delete yapınca öğrencimiz siliniyor.
 
 
 
