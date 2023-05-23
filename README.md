@@ -19,7 +19,7 @@
 
 <div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran.png" width="auto"></div>
 
-Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı toplamını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
+Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add student butonuna tıklayıp aşağıda da gördüğümüz üzere öğrencilerin bilgilerini gireceği bir form sayfası çıkıyor karşımıza.Buraya bilgilerimizi girip 'calc' yaptığımızda not hesaplanıyor ve not ana ekranımda listeleniyor.
 
 
 <div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran1.png" width="auto"></div>
