@@ -10,7 +10,7 @@
 <h5>Doğruluk ve Hassasiyet:</h5> Uygulama, not hesaplama formüllerini otomatik olarak uygulayarak doğru ve hassas sonuçlar sağlar. El ile yapılan hesaplamalardaki hata riskini azaltır.
 
 <h5>Merkezi Not Hesaplama:</h5>
-Uygulama, öğrenci notlarını hesaplamak bir yer sağlar. Bu sayede tüm öğrenci not bilgileri tek bir yerde toplanır ve kolaylıkla erişilebilir hale gelir.
+Uygulama, öğrenci notlarını hesaplamak için bir yer sağlar. Bu sayede tüm öğrenci not bilgileri tek bir yerde toplanır ve kolaylıkla erişilebilir hale gelir.
 
 <h5>Listeleme:</h5>
 Öğrencilerin notlarına göre listelemek uygulamanın bir diğer faydasıdır. Ortalama, en yüksek ve en düşük notlar gibi istatistiksel veriler elde edilebilir. Bu sayede öğrencilerin performansı gruplandırılabilir ve genel sınıf başarısı analiz edilebilir.
