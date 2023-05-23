@@ -56,7 +56,9 @@ Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add studen
 
 
 
-//<h2>Bu Projeyi Nasıl Yaptım?</h2>
+<!-- 
+<h2>Bu Projeyi Nasıl Yaptım?</h2>
+
 
 //Öncelikle Visual Studio 2022 kod programını kullandım bu projem için. Programı açıp ordan windows form uygulaması ile bir proje oluşturuyoruz. Form oluşturma //aşamaları aşağıdaki gibidir.
 
@@ -75,7 +77,7 @@ Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add studen
 //<h2>Kod Kısmı</h2>
 
 //Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları //alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
-
+-->
 
 
           
