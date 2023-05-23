@@ -22,9 +22,6 @@ Uygulama, öğrenci notlarını hesaplamak ve saklamak için merkezi bir yer sa�
 <h5>Düzenli Kayıt ve Referans İmkanı:</h5>
 Uygulama, öğrenci bilgilerinin düzenli bir şekilde kaydedilmesini sağlar. Bu kayıtlar, gelecekteki referanslar için erişilebilir hale gelir. Öğrenci notları, başarı durumu ve diğer ilgili bilgiler güvenli bir şekilde saklanır.
 
-<h5>Veri Tabanlı Yaklaşım:</h5>
-Uygulama, öğrencilerin notlarını analiz etmek ve başarı durumunu anlamak için veri tabanlı bir yaklaşım sunar. Bu sayede detaylı analizler yapılabilir, trendler ve eğilimler belirlenebilir. Öğrencilerin güçlü ve zayıf yönleri tespit edilebilir ve müfredat veya öğretim stratejileri buna göre düzenlenebilir.
-
 <h5>Kolay Kullanıcı İşlemleri:</h5>
 Uygulama, kullanıcıların öğrenci bilgilerini kolayca eklemesini, güncellemesini ve silmesini sağlar. Kullanıcı dostu bir arayüz ile öğrenci notlarının yönetimi basitleştirilir ve kullanıcılar zaman kazanır.
 
@@ -32,7 +29,7 @@ Bu faydaları sağlayan uygulama, öğrenci notlarının etkili bir şekilde yö
 
 
 
-<h2>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h2>
+<h2>Öğrenci Not Hesaplama Uygulamasının Çalışma Aşamaları</h2>
 
 
 <div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran.png" width="auto"></div>
