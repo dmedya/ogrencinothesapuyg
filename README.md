@@ -17,7 +17,7 @@
 <h2>Öğrenci Not Hesaplama Uygulaması Nasıl Çalışır?</h2>
 
 
-<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran.png" width="800" height = "700"></div>
+<div align="center"><img src="https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran.png" width="auto"></div>
 
 Yukarıda da gördüğümüz üzere projemin ana sayfası budur .Burda gördüğünüz kutucuklara bilgilerini yazdıktan sonra 'calc' buttonuna basıp total kısmından genel sınav puanı toplamını ,avg kısmında ortalamasını ,sonuç kısmında ise harf notumuzu görürüz.
 
