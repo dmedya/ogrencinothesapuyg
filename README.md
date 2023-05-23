@@ -9,15 +9,12 @@
 
 <h5>Doğruluk ve Hassasiyet:</h5> Uygulama, not hesaplama formüllerini otomatik olarak uygulayarak doğru ve hassas sonuçlar sağlar. El ile yapılan hesaplamalardaki hata riskini azaltır.
 
-<h5>İlerlemeyi İzleme:</h5> Öğrenciler, ders notlarını ve ortalamalarını düzenli olarak takip ederek akademik ilerlemelerini izleyebilirler. Bu sayede zayıf alanlarını belirleyebilir ve gelişimlerini planlayabilirler.
+<h5>İlerlemeyi İzleme:</h5> Öğrenciler, ders notlarını ve ortalamalarını düzenli olarak takip ederek akademik ilerlemelerini izleyebilirler. Bu sayede zayıf alanlarını belirleyebilir ve gelişimlerini planlayabilirler.Öğrencilerin notlarını düzenli olarak kaydederek, öğretmenler ve veliler öğrencinin ilerlemesini takip edebilir ve gerektiğinde destek sağlayabilir.
 
 <h5>Motivasyon ve Hedef Belirleme:</h5> Uygulama, öğrencilerin notlarını görsel olarak görüntülemelerine ve hedeflerini belirlemelerine olanak tanır. Başarılarına odaklanmalarını ve daha iyi sonuçlar elde etmeyi teşvik eder.
 
 <h5>Merkezi Not Saklama:</h5>
 Uygulama, öğrenci notlarını hesaplamak ve saklamak için merkezi bir yer sağlar. Bu sayede tüm not bilgileri tek bir yerde toplanır ve kolaylıkla erişilebilir hale gelir.
-
-<h5>Performans Takibi:</h5>
-Uygulama, öğrencilerin performansını takip etmek ve gelişimlerini değerlendirmek için kullanılabilir. Öğrencilerin notlarını düzenli olarak kaydederek, öğretmenler ve veliler öğrencinin ilerlemesini takip edebilir ve gerektiğinde destek sağlayabilir.
 
 <h5>Sınıflandırma ve İstatistiksel Bilgiler:</h5>
 Öğrencilerin notlarına göre sınıflandırma ve istatistiksel bilgiler elde etmek uygulamanın bir diğer faydasıdır. Ortalama, standart sapma, en yüksek ve en düşük notlar gibi istatistiksel veriler elde edilebilir. Bu sayede öğrencilerin performansı gruplandırılabilir ve genel sınıf başarısı analiz edilebilir.
