@@ -73,9 +73,6 @@ Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add studen
 
 Windows Form uygulamaları, masaüstü uygulamaları olarak sınıflandırılır. Bunlar, yerel olarak çalışır ve kullanıcının yerel cihazına yüklenir. Windows Form uygulamaları, yerel donanım kaynaklarını kullanarak yüksek performans sunabilir. Aynı zamanda, bu tür uygulamalar kullanıcının yerel cihazında depolanan verilere erişebilir ve kullanıcı tarafından kontrol edilebilir.
 
-Sanal uygulamalar ise bulut tabanlı olarak çalışan ve sunucularda barındırılan uygulamalardır. Kullanıcılar, bir tarayıcı üzerinden sanal uygulamalara erişirler ve genellikle bir sunucu üzerinde çalışan sanal makinelere dayanırlar. Sanal uygulamalar, herhangi bir işletim sistemi veya cihazda çalışabilir ve çapraz platform desteği sağlar. Bu tür uygulamalar, sunucular üzerinde çalıştıkları için güncelleme ve bakım işlemleri merkezi olarak yönetilebilir.
-
-Sonuç olarak, Windows Form uygulamaları masaüstü uygulamalarıdır ve yerel cihazda çalışırlar. Sanal uygulamalar ise bulut tabanlıdır ve sunucularda çalışırlar. Her iki yaklaşımın da kendi avantajları ve dezavantajları vardır ve tercih, projenin gereksinimlerine, kullanıcı ihtiyaçlarına ve dağıtım ortamına bağlı olacaktır.
 
 <h2>Masaüstü uygulamalarının bazı avantajları şunlardır: </h2>
 
