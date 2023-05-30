@@ -68,6 +68,26 @@ Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add studen
 
 //Bu kod bloğu, bir butona tıklandığında çalışacak bir olay işleyicisidir. Bu olay işleyicisi, öğrencinin matematik, İngilizce ve fen derslerinde aldığı notları //alır, toplamını ve ortalamasını hesaplar ve ardından öğrencinin notuna göre bir harf notu ve açıklama belirler.
 -->
+<h2> Masaüstü Uygulaması </h2>
+  C# (C Sharp) dilinde Windows Form uygulaması, Microsoft tarafından sağlanan .NET Framework üzerinde geliştirilen masaüstü bir uygulama türüdür. Windows Form uygulamaları, Windows işletim sistemi üzerinde çalışacak şekilde tasarlanmıştır ve kullanıcı arayüzü öğelerini (formlar, düğmeler, metin kutuları, liste kutuları vb.) kullanarak etkileşimli bir kullanıcı deneyimi sunar.
+
+Windows Form uygulamaları, masaüstü uygulamaları olarak sınıflandırılır. Bunlar, yerel olarak çalışır ve kullanıcının yerel cihazına yüklenir. Windows Form uygulamaları, yerel donanım kaynaklarını kullanarak yüksek performans sunabilir. Aynı zamanda, bu tür uygulamalar kullanıcının yerel cihazında depolanan verilere erişebilir ve kullanıcı tarafından kontrol edilebilir.
+
+Sanal uygulamalar ise bulut tabanlı olarak çalışan ve sunucularda barındırılan uygulamalardır. Kullanıcılar, bir tarayıcı üzerinden sanal uygulamalara erişirler ve genellikle bir sunucu üzerinde çalışan sanal makinelere dayanırlar. Sanal uygulamalar, herhangi bir işletim sistemi veya cihazda çalışabilir ve çapraz platform desteği sağlar. Bu tür uygulamalar, sunucular üzerinde çalıştıkları için güncelleme ve bakım işlemleri merkezi olarak yönetilebilir.
+
+Sonuç olarak, Windows Form uygulamaları masaüstü uygulamalarıdır ve yerel cihazda çalışırlar. Sanal uygulamalar ise bulut tabanlıdır ve sunucularda çalışırlar. Her iki yaklaşımın da kendi avantajları ve dezavantajları vardır ve tercih, projenin gereksinimlerine, kullanıcı ihtiyaçlarına ve dağıtım ortamına bağlı olacaktır.
+
+<h2>Masaüstü uygulamalarının bazı avantajları şunlardır: </h2>
+
+<h3>Yüksek performans:</h3> Masaüstü uygulamaları, yerel cihazın kaynaklarını doğrudan kullanır. Bu nedenle, daha yüksek bir performans sunarlar. İşlemci gücü, bellek ve diğer donanım kaynakları, uygulamanın hızlı ve etkili çalışmasını sağlar.
+
+<h3>Veri kontrolü:</h3> Masaüstü uygulamaları, kullanıcının yerel cihazında çalıştığı için verilerin tam kontrolünü sağlar. Veriler, kullanıcının isteği doğrultusunda yerel depolama alanında saklanır. Bu, gizlilik ve güvenlik açısından büyük bir avantajdır, çünkü kullanıcılar verilerini tamamen kendi cihazlarında yönetebilirler.
+
+<h3>Bağımsız çalışma:</h3> Masaüstü uygulamaları, internet bağlantısına ihtiyaç duymadan çalışabilir. Bu, kullanıcıların herhangi bir zamanda veya herhangi bir yerde uygulamaya erişebilmesini sağlar. İnternet bağlantısı olmadığında bile çalışabilirler, bu da kullanıcılara daha fazla esneklik ve erişilebilirlik sağlar.
+
+<h3>Geliştirme özgürlüğü:</h3> Masaüstü uygulamaları genellikle platforma bağımlı değildir. Örneğin, C# gibi çok sayıda programlama dilinde masaüstü uygulamaları geliştirebilirsiniz. Bu, geliştiricilere tercih ettikleri teknolojiyi kullanma özgürlüğü ve esnekliği sağlar.
+
+<h3>Zengin kullanıcı deneyimi:</h3> Masaüstü uygulamaları, yerel olarak çalıştıkları için daha zengin bir kullanıcı deneyimi sunabilirler. Grafiksel arayüz öğeleri, animasyonlar ve etkileşimli kontrollerle kullanıcıları etkileyici bir şekilde yönlendirebilirler. Bu, uygulamaların daha cazip ve kullanıcı dostu olmasını sağlar.
 
 
           
