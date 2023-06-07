@@ -30,12 +30,12 @@ Bu faydaları sağlayan uygulama, öğrenci notlarının etkili bir şekilde yö
 Yukarıda gördüğümüz ana ekranım.Ana ekranımın yan tarafında add student butonuna tıklayıp öğrenci bilgilerimizi giriyoruz.Aşağıda ilgili form görseli bulunmaktadır.
 
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran1.png" width="auto"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran11.png" width="auto"></div>
 
  Yukarıda gördüğümüz forma öğrenci bilgilerini girip 'calc' yaptığımızda öğrenci notu hesaplanmış oluyor.
 
 
-<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran2.png" width="auto"></div>
+<div align="center"><img src = "https://github.com/dmedya/ogrencinothesapuyg/blob/main/anaekran22.png" width="auto"></div>
 
  Bu görselden de anlaşıldığı üzere 'Kullanıcı bilgiler başarılı bir şekilde girildi'. Ana ekrana dönüp 'Refresh' yaptığımızda öğrencim listeme eklenmiş oluyor .
  Öğrenci ortalaması en yüksekten en düşüğe doğru sıralanıyor.Sağ alt tarafta görüldüğü üzere öğrenci mevcudu,sınıf ortalaması ve başarısız öğrencilerin de sayısı veriliyor.Öğrenci silmek istersekte ,silmek istediğimiz satırı işaretleyip delete yapınca öğrencimiz siliniyor.
